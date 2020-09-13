@@ -1,16 +1,18 @@
-### Hi there 👋
+### Hi there 👋, my name is Zaki
+#### I'm a junior web developer
+![I'm a junior web developer](https://pbs.twimg.com/profile_banners/169453239/1599186458/1080x360)
 
-<!--
-**zakialfaridzi/zakialfaridzi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Currently i'm studying Information Systems at Telkom University
 
-Here are some ideas to get you started:
+Skills: REACT / JS / HTML / PHP-CI / A little CSS
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 🔭 I’m currently working on React based E-commerce and Alquran Learning app 
+- 🌱 I’m currently learning ReactJS and React Native 
+- 📫 How to reach me: feel free to dm my twitter @zalfaridzii 
+
+
+[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/zakialfaridzi)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg' alt='twitter' height='40'>](https://twitter.com/zalfaridzii)  
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=zakialfaridzi)](https://github.com/anuraghazra/github-readme-stats)
+
+![Profile views](https://gpvc.arturio.dev/zakialfaridzi)  
