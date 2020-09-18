@@ -4,7 +4,7 @@
 
 Currently i'm studying Information Systems at Telkom University
 
-Skills: REACT / JS / HTML / PHP-CI / A little CSS
+Skills: Beginner REACT / JS / HTML / PHP-CI / A little CSS
 
 - 🔭 I’m currently working on React based E-commerce and Alquran Learning app 
 - 🌱 I’m currently learning ReactJS and React Native 
