@@ -6,7 +6,7 @@ Currently i'm studying Information Systems at Telkom University
 
 Skills: Beginner React / Beginner Vue / JS / HTML / PHP-CI / CSS
 
-- 🔭 I’m currently working on Nuxt based Blog and Alquran Learning app 
+- 🔭 I’m currently working on Next based Blog and Alquran Learning app 
 - 🌱 I’m currently learning ReactJS and React Native 
 - 📫 How to reach me: feel free to dm my twitter @zalfaridzii 
 
