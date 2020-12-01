@@ -1,6 +1,6 @@
 ### Hi there 👋, my name is Zaki
 #### I'm a junior web developer
-![](https://camo.githubusercontent.com/8c10bda1467e3b647a160fd60f77f11a379dd3864c1e100524a3f29fb8215c44/68747470733a2f2f692e6962622e636f2f31546a3730724e2f4b61776167756368696b6f2d3139303730382d303030392e6a7067)
+![](https://i.ibb.co/f07R3yS/Kawaguchiko-190708-0009.jpg)
 
 Currently i'm studying Information Systems at Telkom University
 
