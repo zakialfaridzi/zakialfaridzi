@@ -8,7 +8,7 @@ Skills: Beginner React / Beginner Vue / JS / HTML / PHP-CI / CSS
 
 - 🔭 I’m currently working on Next based Blog and Alquran Learning app 
 - 🌱 I’m currently learning ReactJS and React Native 
-- 📫 How to reach me: feel free to dm my twitter @zalfaridzii 
+- 📫 How to reach me: feel free to dm my twitter @zalfaridzii\
 http://zalfaridzi.surge.sh/
 
 
