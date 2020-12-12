@@ -9,7 +9,7 @@ Skills: Beginner React / Beginner Vue / JS / HTML / PHP-CI / CSS
 - 🔭 I’m currently working on Next based Blog and Alquran Learning app 
 - 🌱 I’m currently learning ReactJS and React Native 
 - 📫 How to reach me: feel free to dm my twitter @zalfaridzii\
-http://zalfaridzi.surge.sh/
+https://zakialfaridzi.github.io/Portofolio/
 
 
 [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/zakialfaridzi)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg' alt='twitter' height='40'>](https://twitter.com/zalfaridzii)  
