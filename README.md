@@ -18,7 +18,7 @@ Currently i'm studying Information Systems at Telkom University
 <!-- - 👨🏽‍💻 I’m currently working on [Handle Path Oz](https://github.com/onimur/handle-path-oz); -->
 - 👨🏽‍💻 I’m currently working on [Next.js based blog and portfolio app];
 - 💬 Ask me about anything, I am happy to help;
-- ⚡️ Fun-Fact: I've code PHP, JS, TS, MySQL;
+- ⚡️ Fun-Fact: I code in PHP, JS, a little bit of TS, and MySQL;
 - 📫 How to reach me: zalfaridzi9@gmail.com;
 - 🌱  Skills: Intermediate React / Beginner Vue / JS / HTML / CSS / PHP-CI
 
