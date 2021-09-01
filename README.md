@@ -9,22 +9,15 @@
 
 Currently i'm studying Information Systems at Telkom University
 
-<!-- Talking about you -->
 **Talking about Personal Stuffs:**
 
-<!-- Any image aligned to the right. Beware the width -->
 <img width="55%" align="right" alt="Github" src="https://raw.githubusercontent.com/onimur/.github/master/.resources/git-header.svg" />
 
-<!-- - 👨🏽‍💻 I’m currently working on [Handle Path Oz](https://github.com/onimur/handle-path-oz); -->
-- 👨🏽‍💻 I’m currently working on [Next.js based blog and portfolio app];
+- 👨🏽‍💻 I’m currently working on [Next.js based house listing app];
 - 💬 Ask me about anything, I am happy to help;
 - ⚡️ Fun-Fact: I code in PHP, JS, a little bit of TS, and MySQL;
 - 📫 How to reach me: zalfaridzi9@gmail.com;
 - 🌱  Skills: Intermediate React / Beginner Vue / JS / HTML / CSS / PHP-CI
 
-<!-- - 🔭 Currently working on Next based Blog 
-- 🌱 Currently on the way to master ReactJS 
-- 📫 How to reach me: feel free to dm my twitter @zalfaridzii\
-https://zakialfaridzi.github.io/Portofolio/ -->
 
 ![Profile views](https://gpvc.arturio.dev/zakialfaridzi)  
