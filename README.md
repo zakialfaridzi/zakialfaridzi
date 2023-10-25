@@ -2,7 +2,7 @@
 [![Linkedin](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/zakialfaridzi)
 
 ### Hi there 👋, my name is Zaki
-#### I'm a Information Systems fresher from Telkom University with a huge interest in Data Analytics and Data Science
+#### I'm a Information Systems fresh graduate from Telkom University with a huge interest in Data Analytics and Data Science
 
 **Talking about Personal Stuffs:**
 
