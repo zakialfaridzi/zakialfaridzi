@@ -1,14 +1,9 @@
-[![Github](https://img.shields.io/badge/-Github-000?style=flat&logo=Github&logoColor=white)](https://github.com/zakialfaridzi)
 [![Linkedin](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/zakialfaridzi)
 
-### Hi there 👋, my name is Zaki
-#### I'm a Information Systems fresh graduate from Telkom University with a huge interest in Data Analytics and Data Science
+## Hi there, Zaki here! 👋
+### I'm a Data Scientist and an Information Systems graduate from Telkom University!
 
-**Talking about Personal Stuffs:**
-
-<img width="55%" align="right" alt="Github" src="https://raw.githubusercontent.com/onimur/.github/master/.resources/git-header.svg" />
-
-- 💬 Ask me about anything, I am happy to help;
-- ⚡️ Fun-Fact: I code in Python, R, MySQL;
-- 📫 How to reach me: zalfaridzi9@gmail.com;
-- 🌱  Skills: Python, R, SQL, Tableau
+- 💬 Ask me about anything, I'm more than happy to help!
+- ⚡️ I code in Python, R, and SQL
+- 🌱 Currently making data viz in Tableau
+- 📫 How to reach me: zalfaridzi9@gmail.com
